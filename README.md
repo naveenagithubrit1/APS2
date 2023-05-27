@@ -25,4 +25,10 @@ pip install -r requirements.txt
 ```
 ```
 python data_dump.py
+
+```
+```
+git add .
+git commit -m ""
+git push
 ```
